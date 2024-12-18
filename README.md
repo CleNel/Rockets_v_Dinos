@@ -12,7 +12,7 @@ Small HTML and JS-centered game
 2. The enemy has the basic logic to jump when far away to dodge shots
 3. The player has a simple jumping animation
 
-## Version 2
+## Version 2 - In Progress
 
 ### Added Features
 1. Buttons added that respond to touch on mobile devices
